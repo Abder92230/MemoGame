@@ -10,7 +10,7 @@ Le jeu peut être personnalisé en modifiant les constantes dans le fichier Memo
 
 Installation
 
-Le code peut être téléchargé depuis le repository GitHub : https://github.com/Abder92230/MemoryGame
+Le code peut être téléchargé depuis le repository GitHub : https://github.com/Abder92230/MemoGame
 
 Le code est fourni sous forme de fichier source MemoryGame.java. Il peut être exécuté depuis n'importe quel IDE Java tel que Eclipse, IntelliJ IDEA, NetBeans ou depuis la ligne de commande.
 
